@@ -1,0 +1,6 @@
+use_frameworks!
+target 'FANetwork_Tests' do
+  pod 'FANetwork', :path => '../'
+  
+  
+end
