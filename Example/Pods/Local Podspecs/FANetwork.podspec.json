@@ -1,0 +1,22 @@
+{
+  "name": "FANetwork",
+  "version": "0.1.0",
+  "summary": "A short description of FANetwork.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hafiz2a/FANetwork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hafiz2a": "et_dev58@theentertainerme.com"
+  },
+  "source": {
+    "git": "https://github.com/hafiz2a/FANetwork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "FANetwork/Classes/**/*"
+}

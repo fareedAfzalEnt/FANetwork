@@ -21,14 +21,14 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/hafiz2a/FANetwork'
+  s.homepage         = 'https://github.com/fareedAfzalEnt/FANetwork'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'hafiz2a' => 'et_dev58@theentertainerme.com' }
-  s.source           = { :git => 'https://github.com/hafiz2a/FANetwork.git', :tag => s.version.to_s }
+  s.author           = { 'fareedAfzalEnt' => 'farid.a@theentertainerme.com' }
+  s.source           = { :git => 'https://github.com/fareedAfzalEnt/FANetwork.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '13.0'
 
   s.source_files = 'FANetwork/Classes/**/*'
   

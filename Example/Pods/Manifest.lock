@@ -1,0 +1,16 @@
+PODS:
+  - FANetwork (0.1.0)
+
+DEPENDENCIES:
+  - FANetwork (from `../`)
+
+EXTERNAL SOURCES:
+  FANetwork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FANetwork: 01e7b133ddf90d804d28770b386db1ca15c3ccc8
+
+PODFILE CHECKSUM: 5e6e1d80c4aed8f391016602588d77c19497f6d2
+
+COCOAPODS: 1.12.1

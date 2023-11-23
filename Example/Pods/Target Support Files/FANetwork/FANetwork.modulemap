@@ -1,0 +1,6 @@
+framework module FANetwork {
+  umbrella header "FANetwork-umbrella.h"
+
+  export *
+  module * { export * }
+}

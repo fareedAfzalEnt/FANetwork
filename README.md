@@ -1,6 +1,6 @@
 # FANetwork
 
-[![CI Status](https://img.shields.io/travis/hafiz2a/FANetwork.svg?style=flat)](https://travis-ci.org/hafiz2a/FANetwork)
+[![CI Status](https://img.shields.io/travis/fareedAfzalEnt/FANetwork.svg?style=flat)](https://travis-ci.org/fareedAfzalEnt/FANetwork)
 [![Version](https://img.shields.io/cocoapods/v/FANetwork.svg?style=flat)](https://cocoapods.org/pods/FANetwork)
 [![License](https://img.shields.io/cocoapods/l/FANetwork.svg?style=flat)](https://cocoapods.org/pods/FANetwork)
 [![Platform](https://img.shields.io/cocoapods/p/FANetwork.svg?style=flat)](https://cocoapods.org/pods/FANetwork)
@@ -22,7 +22,7 @@ pod 'FANetwork'
 
 ## Author
 
-hafiz2a, et_dev58@theentertainerme.com
+  fareedAfzalEnt, farid.a@theentertainerme.com
 
 ## License
 
